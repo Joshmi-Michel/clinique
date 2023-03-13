@@ -1,1 +1,18 @@
-"# Gestion vente m‚dicament" 
+################################################################################################
+			APPLICATION DE GESTION DE GESTOCK 
+#################################################################################################
+	
+	Pour pouvoir le faire fonctionner, Il est nï¿½cessaire :
+
+	=> D' importer le fichier 'base de donï¿½e.sql' dans votre BASE DE DONNEE (ex: phpMyAdmin )
+		+ mais avant il faut creer la base de donï¿½e -> (gestion_vente)
+
+	NB : Le fichier se trouve dans le dossier config de l'application (base de donï¿½e Alkï¿½la.sql)
+
+	=> Authentification
+		Login : admin
+		Password : admin
+
+#####################################################################################################
+				
+#####################################################################################################
